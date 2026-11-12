@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" role="img" aria-label="Platzhalter: Schaltanlagenbau">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1c232c"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0V80" fill="none" stroke="#2c3642" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+  <rect width="1920" height="1080" fill="url(#grid)"/>
+  <g fill="#232b35" stroke="#3a4654" stroke-width="2">
+    <rect x="300" y="220" width="320" height="640"/>
+    <rect x="660" y="220" width="320" height="640"/>
+    <rect x="1020" y="220" width="320" height="640"/>
+    <rect x="1380" y="220" width="320" height="640"/>
+  </g>
+  <g fill="#0a63c9" opacity="0.85">
+    <rect x="340" y="280" width="240" height="18"/>
+    <rect x="700" y="280" width="240" height="18"/>
+    <rect x="1060" y="280" width="240" height="18"/>
+    <rect x="1420" y="280" width="240" height="18"/>
+  </g>
+  <g fill="none" stroke="#4d5a6a" stroke-width="3">
+    <path d="M340 360h240M340 420h240M340 480h240M700 360h240M700 420h240M1060 360h240M1060 420h240M1060 480h240M1420 360h240"/>
+  </g>
+  <g fill="#3b8ff0">
+    <circle cx="560" cy="780" r="8"/><circle cx="920" cy="780" r="8"/><circle cx="1280" cy="780" r="8"/><circle cx="1640" cy="780" r="8"/>
+  </g>
+</svg>

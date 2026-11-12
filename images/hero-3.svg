@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" role="img" aria-label="Platzhalter: Individuelle Lösungen">
+  <defs>
+    <linearGradient id="bg" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a212a"/>
+      <stop offset="1" stop-color="#0f141a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+  <g fill="none" stroke="#2a3340" stroke-width="2">
+    <path d="M0 240H1920M0 480H1920M0 720H1920M0 960H1920"/>
+  </g>
+  <g fill="#232b35" stroke="#3a4654" stroke-width="2">
+    <path d="M400 860V300L760 180V740Z"/>
+    <path d="M760 740V180L1120 300V860Z"/>
+    <path d="M1120 860V300L1480 180V740Z"/>
+  </g>
+  <g fill="#0a63c9" opacity="0.9">
+    <path d="M440 330V380L720 290V240Z"/>
+    <path d="M800 240V290L1080 380V330Z"/>
+    <path d="M1160 330V380L1440 290V240Z"/>
+  </g>
+  <g fill="none" stroke="#4d5a6a" stroke-width="3">
+    <path d="M440 460L720 370M440 540L720 450M800 370L1080 460M800 450L1080 540M1160 460L1440 370M1160 540L1440 450"/>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080" role="img" aria-label="Platzhalter: Steuerungstechnik">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141a21"/>
+      <stop offset="1" stop-color="#1f2731"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+  <g fill="none" stroke="#2e3947" stroke-width="2">
+    <path d="M0 540H1920M960 0V1080"/>
+  </g>
+  <g fill="none" stroke="#0a63c9" stroke-width="4" stroke-linecap="round">
+    <path d="M200 700H520V420H860V760H1180V340H1520V640H1760"/>
+  </g>
+  <g fill="#3b8ff0">
+    <circle cx="520" cy="420" r="10"/><circle cx="860" cy="760" r="10"/><circle cx="1180" cy="340" r="10"/><circle cx="1520" cy="640" r="10"/>
+  </g>
+  <g fill="#232b35" stroke="#3a4654" stroke-width="2">
+    <rect x="1240" y="120" width="420" height="160"/>
+    <rect x="260" y="800" width="420" height="160"/>
+  </g>
+  <g fill="#4d5a6a">
+    <rect x="1280" y="160" width="340" height="12"/><rect x="1280" y="200" width="260" height="12"/><rect x="1280" y="240" width="300" height="12"/>
+    <rect x="300" y="840" width="340" height="12"/><rect x="300" y="880" width="220" height="12"/><rect x="300" y="920" width="300" height="12"/>
+  </g>
+</svg>
